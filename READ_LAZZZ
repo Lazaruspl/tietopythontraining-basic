@@ -1,0 +1,22 @@
+git config -> Tieto
+
+git push https://github.com/Lazaruspl/tietopythontraining-basic kadilak83/lesson_01_basics
+
+Login: Lazaruspl
+Haslo: <tshcz>
+
+Create pull request
+
+--------------------------
+
+Update code after review:
+https://stackoverflow.com/questions/7947322/preferred-github-workflow-for-updating-a-pull-request-after-code-review
+Basically git push -f or separate commits with modifications.
+
+--------------------------
+
+How to rebase forked project github:
+
+https://gist.github.com/CristinaSolana/1885435
+# Once: git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+git pull upstream master
